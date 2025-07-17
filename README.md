@@ -6,7 +6,7 @@ This space serves as my personal logbook as I navigate the fundamentals of Java,
 
 ## 📚 About the Course
 
-I'm learning Java through the **Java 10x** course, created by **Horácio Muller (@horaciomuller)**. It's a comprehensive program designed to build a strong foundation in Java development.
+I'm learning Java through the **Java 10x** course, created by **Horácio Muller ([@horaciomuller](https://github.com/horaciomuller))**. It's a comprehensive program designed to build a strong foundation in Java development.
 
 * 🔗 **Course Link:** [Java 10x Official Website](https://java10x.dev/?ref=S96141156Q)
 
