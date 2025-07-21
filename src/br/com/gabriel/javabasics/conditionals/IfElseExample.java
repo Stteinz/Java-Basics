@@ -1,4 +1,4 @@
-package conditionals;
+package javabasics.conditionals;
 
 public class IfElseExample {
     public static void main(String[] args) {

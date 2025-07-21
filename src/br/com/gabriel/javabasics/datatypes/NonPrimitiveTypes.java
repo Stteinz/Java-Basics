@@ -1,4 +1,4 @@
-package datatypes;
+package javabasics.datatypes;
 
 public class NonPrimitiveTypes {
     public static void main(String[] args) {

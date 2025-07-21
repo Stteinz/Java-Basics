@@ -1,4 +1,4 @@
-package conditionals;
+package javabasics.conditionals;
 
 public class TernaryOperator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package datatypes;
+package javabasics.datatypes;
 
 public class PrimitiveTypes {
     public static void main(String[] args) {

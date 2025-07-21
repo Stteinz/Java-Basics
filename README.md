@@ -25,7 +25,7 @@ To keep things organized, this repository is structured into folders. Each folde
 My main goal with this repository is to practice and solidify my understanding of core Java concepts, including:
 
 * Basic Syntax and Variables
-* Control Flow (if/else, switch, loops)
+* Control Flow (if/else, switch, javabasics.loops)
 * Object-Oriented Programming (OOP) Concepts
 * Classes, Objects, and Methods
 * Data Structures (Arrays, Lists, etc.)

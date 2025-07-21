@@ -1,4 +1,4 @@
-package challengeone;
+package javabasics.challengeone;
 
 /**
  * Solution for Challenge 1 from the Java 10x course.
