@@ -14,6 +14,11 @@ public class MainNinja {
         sasuke.name = "Sasuke Uchiha";
         sasuke.age = 19;
         sasuke.village = "Leaf Village";
+        sasuke.activateSharingan();
+        String methodCall = sasuke.imANinja();
+        System.out.println(methodCall);
+        int howMuchTimeIsLeft = sasuke.yearsToBeAHokage(50);
+        System.out.println("Sasuke is " + sasuke.age + " years old, so there are at least " + howMuchTimeIsLeft + " years to be a Hokage");
 
         //Create Sakura
         Ninja sakura = new Ninja();
