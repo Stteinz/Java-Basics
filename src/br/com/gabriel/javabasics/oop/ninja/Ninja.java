@@ -5,10 +5,6 @@ public class Ninja {
     int age;
     String village;
 
-    public void activateSharingan(){
-        System.out.println("Sharingan is activated");
-    }
-
     public String imANinja() {
         return "Hi, I'm a ninja";
     }

@@ -4,26 +4,28 @@ public class MainNinja {
     public static void main(String[] args) {
 
         //Create Naruto
-        Ninja naruto = new Ninja();
+        Uzumaki naruto = new Uzumaki();
         naruto.name = "Naruto Uzumaki";
         naruto.age = 18;
         naruto.village = "Leaf Village";
+        naruto.sageMode();
 
         //Crate Sasuke
-        Ninja sasuke = new Ninja();
+        Uchiha sasuke = new Uchiha();
         sasuke.name = "Sasuke Uchiha";
         sasuke.age = 19;
         sasuke.village = "Leaf Village";
-        sasuke.activateSharingan();
+        sasuke.sharingan();
         String methodCall = sasuke.imANinja();
         System.out.println(methodCall);
         int howMuchTimeIsLeft = sasuke.yearsToBeAHokage(50);
         System.out.println("Sasuke is " + sasuke.age + " years old, so there are at least " + howMuchTimeIsLeft + " years to be a Hokage");
 
-        //Create Sakura
-        Ninja sakura = new Ninja();
-        sakura.name = "Sakura Haruno";
-        sakura.age = 19;
-        sakura.village = "Leaf Village";
+        //Create Hinata
+        Hyuuga hinata = new Hyuuga();
+        hinata.name = "Hinata Hyuuga";
+        hinata.age = 19;
+        hinata.village = "Leaf Village";
+        hinata.byakugan();
     }
 }
