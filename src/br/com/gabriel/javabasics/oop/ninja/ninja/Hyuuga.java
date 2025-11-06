@@ -1,4 +1,4 @@
-package br.com.gabriel.javabasics.oop.ninja;
+package br.com.gabriel.javabasics.oop.ninja.ninja;
 
 public class Hyuuga extends Ninja {
     public void byakugan(){

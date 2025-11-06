@@ -1,6 +1,6 @@
-package br.com.gabriel.javabasics.oop.ninja;
+package br.com.gabriel.javabasics.oop.ninja.ninja;
 
-public class Boruto extends Uzumaki implements HyuugaUzumaki{
+public class Boruto extends Uzumaki implements HyuugaUzumaki {
 
     @Override
     public void ActivateKarma() {
