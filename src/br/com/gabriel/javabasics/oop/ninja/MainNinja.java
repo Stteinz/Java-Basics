@@ -27,5 +27,15 @@ public class MainNinja {
         hinata.age = 19;
         hinata.village = "Leaf Village";
         hinata.byakugan();
+
+        //Create Boruto
+        Boruto boruto = new Boruto();
+        boruto.name = "Boruto Hyuuga Uzumaki";
+        boruto.age = 9;
+        boruto.village = "Leaf Village";
+
+        boruto.sageMode();
+        boruto.ActivateKarma();
+        boruto.ActivateJougan();
     }
 }
